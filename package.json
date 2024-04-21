@@ -12,10 +12,11 @@
   "author": "Trybe Desenvolvimento de Software LTDA",
   "license": "ISC",
   "devDependencies": {
-    "jest": "24.9.0",
-    "eslint-config-trybe-backend": "2.1.0"
+    "eslint-config-trybe-backend": "2.1.0",
+    "jest": "24.9.0"
   },
   "dependencies": {
+    "date-fns": "^2.30.0",
     "mysql2": "2.3.3"
   }
 }
